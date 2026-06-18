@@ -3,7 +3,7 @@
  * 문제: 짝수와 홀수
  * URL: https://school.programmers.co.kr/learn/courses/30/lessons/12937
  */
-class Solution {
+public class EvenOdd {
     public String solution(int num) {
         String answer = "";
         if(num % 2 == 0)
