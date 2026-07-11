@@ -5,7 +5,7 @@
  */
 import java.util.Arrays;
 
-class Solution {
+public class KthNumber {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
         int[] t;
