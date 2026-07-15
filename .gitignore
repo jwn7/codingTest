@@ -1,0 +1,10 @@
+# GitHub에는 매일 푼 Java 파일만 올린다.
+*
+!.gitignore
+!README.md
+!src/
+!src/learning/
+!src/learning/**/
+!src/learning/**/*.java
+src/learning/template/
+src/learning/CurrentProblem.java
