@@ -8,3 +8,4 @@
 !src/learning/**/*.java
 src/learning/template/
 src/learning/CurrentProblem.java
+src/learning/practice/
